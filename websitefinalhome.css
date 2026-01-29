@@ -1,0 +1,84 @@
+body {
+    background-color:;
+}
+ul {
+    border-radius: 20px;
+    margin: 10px;
+    list-style-type:none;
+    display:flex;
+    justify-content: space-around;
+    background-color: ghostwhite;
+    padding:15px;
+    font-family: "Bitcount Prop Single Ink", system-ui;
+}
+a {
+    text-decoration: none;
+    color: black
+}
+a:hover {
+    color: skyblue;
+    transition: color 0.15s;
+}
+
+.images {
+    height:16.6%;
+    margin-left:1px; 
+}
+#lowertext {
+    margin-left: 20%;
+    margin-right:20%;
+    
+}
+#hometext {
+    margin: auto;
+    max-width: 60%;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+}
+#galleryimages {
+    margin-left: 19%;
+    margin-right: 19%;
+    margin-bottom: 20%;
+
+}
+.gallery {
+    width: 19.79%;
+    transition: all 0.65s;
+    border-radius: 15px;;
+}
+.gallery:hover {
+    transform: scale(175%);
+    overflow: hidden;
+}
+.homebutton {
+    background-color:#dafbeb;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+.button1 {
+    background-color:#dafbeb;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+.button2 {
+    background-color:#dafbeb;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+.button3 {
+    background-color:#dafbeb;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}

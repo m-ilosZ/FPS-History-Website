@@ -1,0 +1,85 @@
+#toptext {
+    margin-left: 12%;
+    font-family: "Roboto", sans-serif;
+}
+#quaketop {
+    display:flex;
+    width:76%;
+    margin: auto;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    height:40%;
+}
+#quakeimage {
+    margin-right: 20px;
+    border-radius: 20px;
+}
+#doombottom {
+    display:flex;
+    width: 76%;
+    margin:auto;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    height:40%;
+}
+#doomimage {
+    margin-left: 20px;
+    border-radius: 20px;
+}
+#othergames {
+    width:25%;
+    margin-left:11.5%
+}
+ul {
+    border-radius: 20px;
+    margin: 10px;
+    list-style-type:none;
+    display:flex;
+    justify-content: space-around;
+    background-color: ghostwhite;
+    padding:15px;
+    font-family: "Bitcount Prop Single Ink", system-ui;
+}
+a {
+    text-decoration: none;
+    color: black
+}
+a:hover {
+    color: skyblue;
+}
+.images {
+    margin-left:1px; 
+    height:16.6%;
+}
+.homebutton {
+    background-color:#dafbeb;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+.button1 {
+    background-color:#dafbeb;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+.button2 {
+    background-color:#dafbeb;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+.button3 {
+    background-color:#dafbeb;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
